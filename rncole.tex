@@ -11,11 +11,12 @@
 \usepackage{changepage}
 \usepackage{lipsum}
 \usepackage{array, xcolor}
+\usepackage{fancyhdr}
 \definecolor{lightgray}{gray}{0.8}
 \newcolumntype{L}{>{\raggedleft}p{0.11\textwidth}}
 \newcolumntype{R}{p{0.83\textwidth}}
 \newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
-\pagestyle{empty}
+\pagestyle{fancy}
 \setlength{\tabcolsep}{1em}
 
 % indentsection style, used for sections that aren't already in lists
@@ -49,6 +50,15 @@
 % and the actual content starts here
 \begin{document}
 
+% Document header and footers
+\lhead{Robert N. Cole}
+\chead{}
+\rhead{\thepage}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\thispagestyle{empty}
+
 \hrule
 \begin{center}
 {\LARGE \textbf{Robert N. Cole}}
@@ -67,28 +77,47 @@ Senior civil engineer with experience in design and corrective action program ma
 
 \section*{Professional Experience}
 \begin{tabular}{L!{\VRule}R}
-2012--today&{\bf Senior Civil Engineer at \fontsize{11}{11}\textsc{Tennessee Valley Authority}}\\
-&Ensured engineering schedule adherence as a member of the Engineering Rapid Response Team at the Watts Bar Nuclear Plant from February 2012 to October 2012 by providing expertise to Operations and other plant organizations without perturbing the primary engineering organizations. Primary responsibilities included production of design change requests, temporary alterations, and providing engineering support.  Secondary responsibilities included continued ownership of Cranes and Rigging (including NUREG-0612 Heavy Loads), representing Watts Bar and Engineering at Nuclear Regulatory Commission meetings related to flood mode at their headquarters in Washington, DC, and support of IBM Cognos reports.\par\vspace{1em}
-Selected for a Pressurized Water Reactor Senior Reactor Operator Management Certification in October 2012, and spent the following 7 months in a rigorous training program including NRC Generic Fundamentals requirements of Components, Reactor Theory, and Thermodynamics, 3 months of PWR plant systems, and 2 months of main control room operator simulator training.   \\[5pt]
+2012--today&{\bf Senior Civil Design Engineer at \fontsize{11}{11}\textsc{Tennessee Valley Authority}}\\
+&Ensured engineering schedule adherence as a member of the Engineering Rapid Response Team at the Watts Bar Nuclear Plant from February 2012 to October 2012 by providing expertise to Operations and other plant organizations without perturbing the primary engineering organizations. Primary responsibilities included production of design change requests, temporary alterations, and providing engineering support.  Secondary responsibilities included continued ownership of Cranes and Rigging (including NUREG-0612 Heavy Loads), representing Watts Bar and Engineering at Nuclear Regulatory Commission meetings related to flood mode at their headquarters in Washington, DC, and support of IBM Cognos reports.\par\vspace{0.5em}
+Selected for a Pressurized Water Reactor Senior Reactor Operator Management Certification in October 2012, and spent the following 7 months in a rigorous training program including NRC Generic Fundamentals requirements of Components, Reactor Theory, and Thermodynamics, 3 months of PWR plant systems, and 2 months of main control room operator simulator training.   \\[10pt]
 
 2010--2012&{\bf Engineering Corrective Action Program Manager at \fontsize{11}{11}\textsc{Tennessee Valley Authority}}\\
-&Manager of the Corrective Action Program (CAP) and Performance Improvement functions for the Watts Bar Nuclear Plant Engineering organization from August 2010 to January 2012.  Interfaced with other plant organizations to coordinate corrective action program functions including the corrective action program, trending reviews, benchmarking, and self assessments. Acted as the engineering representative for the CAP problem screening committee by providing technical insight and guarding the design basis of the plant, and chaired the Engineering Departmental Corrective Action Review Board to ensure quality CAP products.\par\vspace{1em}
+&Manager of the Corrective Action Program (CAP) and Performance Improvement functions for the Watts Bar Nuclear Plant Engineering organization from August 2010 to January 2012.  Interfaced with other plant organizations to coordinate corrective action program functions including the corrective action program, trending reviews, benchmarking, and self assessments. Acted as the engineering representative for the CAP problem screening committee by providing technical insight and guarding the design basis of the plant, and chaired the Engineering Departmental Corrective Action Review Board to ensure quality CAP products.\par\vspace{0.5em}
 
-Developed reporting tools for use within engineering as well as the site for management of CAP health and integration between the CAP and work management software by providing interfacing managers with key information to ensure that they can meet their goals and deadlines using IBM Cognos reporting authoring tools.\par\vspace{1em}
+Developed reporting tools for use within engineering as well as the site for management of CAP health and integration between the CAP and work management software by providing interfacing managers with key information to ensure that they can meet their goals and deadlines using IBM Cognos reporting authoring tools.\par\vspace{0.5em}
 
-Guided the Engineering program at WBN toward excellence in CAP.  This was evidenced by engineering CAP program health improving from consistently poor performance at Yellow and Red to the best sustainable performance in the previous decade at White to Green with continuous improvement.\\
+Guided the Engineering program at WBN toward excellence in CAP.  This was evidenced by engineering CAP program health improving from consistently poor performance at Yellow and Red to the best sustainable performance in the previous decade at White to Green with continuous improvement.\\[10pt]
 \end{tabular}
 
-\section*{Education}
+\section*{Professional Experience}
 \begin{tabular}{L!{\VRule}R}
-2002--2007&{\bf B.Sc. in Civil Engineering, The University of Tennessee at Knoxville}\\[5pt]
+2008--2010&{\bf Civil Design Engineer at \fontsize{11}{11}\textsc{Tennessee Valley Authority}}\\
+&Provided plant support regarding civil issues including Design Changes, Piping Stress Analysis meeting ASME code requirements for Class 2 and 3 piping systems, structural analysis \& design, licensing document change requests, and owned the NUREG-0612 heavy loads and temporary equipment programs.\par\vspace{0.5em} 
+
+Provided engineering review/expertise and support of crane and rigging issues.\par\vspace{0.5em}
+
+Mentored new engineers in the engineering graduate progression program to successfully fulfill requirements and obtain required qualifications. Assisted driving resolution of progression program discrepancies in order to ensure engineers could satisfactorily complete the program.\\[10pt]
+
+2005--2007&{\bf Systems Administrator at \fontsize{11}{11}\textsc{Pennant Foods Corporation dba Wendy's}}\\
+&Administrator of Windows servers and clients, Exchange, SQL, and monitoring/virtualization solutions on Linux. Responsibilities also included maintaining and supporting various means of connectivity between store locations and the internet/corporate intranet and remote banking locations via VPN.\par\vspace{0.5em}
+
+Provided desktop support for approximately 50 users at the corporate locations, including software troubleshooting, recommendations, and upgrades. Software support included Microsoft Office, Great Plains accounting, and custom FoxPro solutions for food cost evaluation.\\[10pt]
+
+2004--2005&{\bf Consultant at \fontsize{11}{11}\textsc{Young and Mead Consulting, LLC}}\\
+&Consulting for various firms in various industries, including food service, liquor sales, and railway production. Primary roles included supporting network and server (Windows) issues, including backup and other maintenance tasks. Secondary roles included FoxPro coding, point of sale interface design, documentation generation and editing, and desktop support of clients on an as-needed basis.\\
+\end{tabular}
+
+\section*{Education and Certifications}
+\begin{tabular}{L!{\VRule}R}
+2002--2007&{\bf B.Sc. in Civil Engineering\rm, The University of Tennessee at Knoxville}\\
+Dec. 2007&{\bf Engineer-In-Training (EIT) License 26514\rm, Tennessee Department of Commerce and Insurance}\\
+May 2013&{\bf Senior Reactor Operator Management Certification (ANSI 3.1)\rm, Hyperspring, LLC}\\[5pt]
 \end{tabular}
 
 \hrule
 \vspace{-0.4em}
 \section*{Core Technical Skills}
 
-\begin{indentsection}{\parindent}
 \hyphenpenalty=1000
 \begin{description*}
 	\item[Languages:]
@@ -96,6 +125,5 @@ Guided the Engineering program at WBN toward excellence in CAP.  This was eviden
 	\item[Open Source Contributions:]
 	Project A, Project B, Project C
 \end{description*}
-\end{indentsection}
 
 \end{document}

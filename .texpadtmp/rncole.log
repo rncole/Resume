@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  12 APR 2013 06:39
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  12 APR 2013 07:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -504,29 +504,40 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
+(/opt/local/share/texmf-texlive-dist/tex/latex/fancyhdr/fancyhdr.sty
+\fancy@headwidth=\skip45
+\f@ncyO@elh=\skip46
+\f@ncyO@erh=\skip47
+\f@ncyO@olh=\skip48
+\f@ncyO@orh=\skip49
+\f@ncyO@elf=\skip50
+\f@ncyO@erf=\skip51
+\f@ncyO@olf=\skip52
+\f@ncyO@orf=\skip53
+)
 (/Users/rncole/Resume/.texpadtmp/rncole.aux)
 \openout1 = `rncole.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
 
 (/opt/local/share/texmf-texlive-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 50.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 51.
 
 (/opt/local/share/texmf-texlive-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
@@ -579,47 +590,51 @@ File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 \makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks20
 )
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 56.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 66.
  (/opt/local/share/texmf-texlive-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 69.
+(Font)              <7> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 69.
+(Font)              <5> on input line 79.
 
-Overfull \hbox (10.13806pt too wide) in paragraph at lines 69--81
+Overfull \hbox (10.13806pt too wide) in paragraph at lines 79--91
 [] 
  []
 
 
-Overfull \hbox (10.13806pt too wide) in paragraph at lines 83--86
+Overfull \hbox (10.13806pt too wide) in paragraph at lines 93--109
 [] 
  []
 
 [1
 
-{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(/Users/rncole/Resume/.texpadtmp/rncole.aux) ) 
+{/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (10.13806pt too wide) in paragraph at lines 111--116
+[] 
+ []
+
+[2] (/Users/rncole/Resume/.texpadtmp/rncole.aux) ) 
 Here is how much of TeX's memory you used:
- 3424 strings out of 495063
- 45062 string characters out of 3181831
- 195084 words of memory out of 3000000
- 6577 multiletter control sequences out of 15000+200000
+ 3552 strings out of 495063
+ 46436 string characters out of 3181831
+ 200029 words of memory out of 3000000
+ 6701 multiletter control sequences out of 15000+200000
  33989 words of font info for 26 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,9n,35p,751b,219s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/opt/local/share/texmf-texlive-d
-ist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/opt/local/share/texmf-texlive-dist/f
-onts/enc/dvips/tex-gyre/q-ts1.enc}{/opt/local/share/texmf-texlive-dist/fonts/en
-c/dvips/tex-gyre/q-ec.enc}</opt/local/share/texmf-texlive-dist/fonts/type1/publ
-ic/tex-gyre/qplb.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/public/te
-x-gyre/qplr.pfb>
-Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 65219 by
+ 37i,11n,43p,753b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
+{/opt/local/share/texmf-texli
+ve-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/opt/local/share/texmf-texlive-di
+st/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/opt/local/share/texmf-texlive-dist/font
+s/enc/dvips/tex-gyre/q-ec.enc}</opt/local/share/texmf-texlive-dist/fonts/type1/
+public/tex-gyre/qplb.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publi
+c/tex-gyre/qplr.pfb>
+Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71420 by
 tes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
