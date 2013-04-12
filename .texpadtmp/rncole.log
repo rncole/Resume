@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  12 APR 2013 07:22
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  12 APR 2013 07:42
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -10,8 +10,8 @@ Babel <v3.8m> and hyphenation patterns for english, dumylang, nohyphenation, lo
 aded.
 (/opt/local/share/texmf-texlive-dist/tex/latex/base/article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/opt/local/share/texmf-texlive-dist/tex/latex/base/size10.clo
-File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+(/opt/local/share/texmf-texlive-dist/tex/latex/base/size11.clo
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -561,12 +561,12 @@ File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 * \topmargin=-55.06749pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=10.0pt
+* \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=65.0pt
-* \marginparsep=11.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
 * \columnsep=10.0pt
-* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -599,33 +599,52 @@ Underfull \hbox (badness 10000) in paragraph at lines 76--77
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 79.
+(Font)              <10.95> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 79.
+(Font)              <8> on input line 79.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 79.
 
-Overfull \hbox (10.13806pt too wide) in paragraph at lines 79--91
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 79--91
 [] 
  []
 
 
-Overfull \hbox (10.13806pt too wide) in paragraph at lines 93--109
+Underfull \hbox (badness 5802) in paragraph at lines 102--102
+[]|\T1/qpl/m/n/10.95 Administrator of Win-dows servers and clients, Ex-change, 
+SQL, and mon-i-tor-
+ []
+
+
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 93--109
 [] 
  []
 
 [1
 
 {/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (10.13806pt too wide) in paragraph at lines 111--116
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 111--116
 [] 
  []
 
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--128
+
+ []
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
 [2] (/Users/rncole/Resume/.texpadtmp/rncole.aux) ) 
 Here is how much of TeX's memory you used:
- 3552 strings out of 495063
- 46436 string characters out of 3181831
- 200029 words of memory out of 3000000
- 6701 multiletter control sequences out of 15000+200000
- 33989 words of font info for 26 fonts, out of 3000000 for 9000
+ 3566 strings out of 495063
+ 46605 string characters out of 3181831
+ 200050 words of memory out of 3000000
+ 6709 multiletter control sequences out of 15000+200000
+ 30981 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
  37i,11n,43p,753b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/opt/local/share/texmf-texli
@@ -634,7 +653,7 @@ st/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/opt/local/share/texmf-texlive-dist/font
 s/enc/dvips/tex-gyre/q-ec.enc}</opt/local/share/texmf-texlive-dist/fonts/type1/
 public/tex-gyre/qplb.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publi
 c/tex-gyre/qplr.pfb>
-Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71420 by
+Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71515 by
 tes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
