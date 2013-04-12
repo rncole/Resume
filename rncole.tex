@@ -1,0 +1,101 @@
+% resume.tex
+% vim:set ft=tex spell:
+
+\documentclass[10pt,letterpaper]{article}
+\usepackage[letterpaper,margin=0.75in]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{mdwlist}
+\usepackage[T1]{fontenc}
+\usepackage{textcomp}
+\usepackage{tgpagella}
+\usepackage{changepage}
+\usepackage{lipsum}
+\usepackage{array, xcolor}
+\definecolor{lightgray}{gray}{0.8}
+\newcolumntype{L}{>{\raggedleft}p{0.11\textwidth}}
+\newcolumntype{R}{p{0.83\textwidth}}
+\newcommand\VRule{\color{lightgray}\vrule width 0.5pt}
+\pagestyle{empty}
+\setlength{\tabcolsep}{1em}
+
+% indentsection style, used for sections that aren't already in lists
+% that need indentation to the level of all text in the document
+\newenvironment{indentsection}[1]%
+{\begin{list}{}%
+	{\setlength{\leftmargin}{#1}}%
+	\item[]%
+}
+{\end{list}}
+
+% opposite of above; bump a section back toward the left margin
+\newenvironment{unindentsection}[1]%
+{\begin{list}{}%
+	{\setlength{\leftmargin}{-0.5#1}}%
+	\item[]%
+}
+{\end{list}}
+
+% format two pieces of text, one left aligned and one right aligned
+\newcommand{\headerrow}[2]
+{\begin{tabular*}{\linewidth}{l@{\extracolsep{\fill}}r}
+	#1 &
+	#2 \\
+\end{tabular*}}
+
+% make "C++" look pretty when used in text by touching up the plus signs
+\newcommand{\CPP}
+{C\nolinebreak[4]\hspace{-.05em}\raisebox{.22ex}{\footnotesize\bf ++}}
+
+% and the actual content starts here
+\begin{document}
+
+\hrule
+\begin{center}
+{\LARGE \textbf{Robert N. Cole}}
+
+613 W. Broadway Street\ \ \textbullet
+\ \ Lenoir City, TN 37771-2702
+\\
+\hspace{.35em}(865) 560-6051\ \ \textbullet
+\ \ rncole@gmail.com
+\end{center}
+\hrule
+\vspace{-0.4em}
+
+\section*{Objective}
+Senior civil engineer with experience in design and corrective action program management. Previous positions as a civil design engineer and as a manager have provided a breadth of knowledge and understanding of plant issues and resolution. Interested in design and operations with development opportunities and taking on new or unique tasks.\\
+
+\section*{Professional Experience}
+\begin{tabular}{L!{\VRule}R}
+2012--today&{\bf Senior Civil Engineer at \fontsize{11}{11}\textsc{Tennessee Valley Authority}}\\
+&Ensured engineering schedule adherence as a member of the Engineering Rapid Response Team at the Watts Bar Nuclear Plant from February 2012 to October 2012 by providing expertise to Operations and other plant organizations without perturbing the primary engineering organizations. Primary responsibilities included production of design change requests, temporary alterations, and providing engineering support.  Secondary responsibilities included continued ownership of Cranes and Rigging (including NUREG-0612 Heavy Loads), representing Watts Bar and Engineering at Nuclear Regulatory Commission meetings related to flood mode at their headquarters in Washington, DC, and support of IBM Cognos reports.\par\vspace{1em}
+Selected for a Pressurized Water Reactor Senior Reactor Operator Management Certification in October 2012, and spent the following 7 months in a rigorous training program including NRC Generic Fundamentals requirements of Components, Reactor Theory, and Thermodynamics, 3 months of PWR plant systems, and 2 months of main control room operator simulator training.   \\[5pt]
+
+2010--2012&{\bf Engineering Corrective Action Program Manager at \fontsize{11}{11}\textsc{Tennessee Valley Authority}}\\
+&Manager of the Corrective Action Program (CAP) and Performance Improvement functions for the Watts Bar Nuclear Plant Engineering organization from August 2010 to January 2012.  Interfaced with other plant organizations to coordinate corrective action program functions including the corrective action program, trending reviews, benchmarking, and self assessments. Acted as the engineering representative for the CAP problem screening committee by providing technical insight and guarding the design basis of the plant, and chaired the Engineering Departmental Corrective Action Review Board to ensure quality CAP products.\par\vspace{1em}
+
+Developed reporting tools for use within engineering as well as the site for management of CAP health and integration between the CAP and work management software by providing interfacing managers with key information to ensure that they can meet their goals and deadlines using IBM Cognos reporting authoring tools.\par\vspace{1em}
+
+Guided the Engineering program at WBN toward excellence in CAP.  This was evidenced by engineering CAP program health improving from consistently poor performance at Yellow and Red to the best sustainable performance in the previous decade at White to Green with continuous improvement.\\
+\end{tabular}
+
+\section*{Education}
+\begin{tabular}{L!{\VRule}R}
+2002--2007&{\bf B.Sc. in Civil Engineering, The University of Tennessee at Knoxville}\\[5pt]
+\end{tabular}
+
+\hrule
+\vspace{-0.4em}
+\section*{Core Technical Skills}
+
+\begin{indentsection}{\parindent}
+\hyphenpenalty=1000
+\begin{description*}
+	\item[Languages:]
+	C, \CPP, Java, JavaScript, \LaTeX, Perl, Python, shell script, SQL
+	\item[Open Source Contributions:]
+	Project A, Project B, Project C
+\end{description*}
+\end{indentsection}
+
+\end{document}
