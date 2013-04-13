@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  12 APR 2013 17:13
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  13 APR 2013 03:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -594,10 +594,6 @@ LaTeX Font Info:    Try loading font information for TS1+qpl on input line 45.
  (/opt/local/share/texmf-texlive-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-Underfull \hbox (badness 10000) in paragraph at lines 55--56
-
- []
-
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -646,14 +642,14 @@ Here is how much of TeX's memory you used:
  6703 multiletter control sequences out of 15000+200000
  30981 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,11n,43p,737b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,11n,43p,676b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/opt/local/share/texmf-texli
 ve-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/opt/local/share/texmf-texlive-di
 st/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/opt/local/share/texmf-texlive-dist/font
 s/enc/dvips/tex-gyre/q-ec.enc}</opt/local/share/texmf-texlive-dist/fonts/type1/
 public/tex-gyre/qplb.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publi
 c/tex-gyre/qplr.pfb>
-Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71541 by
+Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71632 by
 tes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
