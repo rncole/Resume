@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  12 APR 2013 07:42
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  12 APR 2013 17:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -518,26 +518,26 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 (/Users/rncole/Resume/.texpadtmp/rncole.aux)
 \openout1 = `rncole.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 51.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 30.
 
 (/opt/local/share/texmf-texlive-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 51.
-LaTeX Font Info:    Try loading font information for T1+qpl on input line 51.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Try loading font information for T1+qpl on input line 30.
 
 (/opt/local/share/texmf-texlive-dist/tex/latex/tex-gyre/t1qpl.fd
 File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
@@ -590,45 +590,45 @@ File: t1qpl.fd 2009/09/25 v1.2 font definition file for T1/qpl
 \makeMPintoPDFobject=\count99
 \everyMPtoPDFconversion=\toks20
 )
-LaTeX Font Info:    Try loading font information for TS1+qpl on input line 66.
+LaTeX Font Info:    Try loading font information for TS1+qpl on input line 45.
  (/opt/local/share/texmf-texlive-dist/tex/latex/tex-gyre/ts1qpl.fd
 File: ts1qpl.fd 2009/09/25 v1.2 font definition file for TS1/qpl
 )
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 79.
+(Font)              <10.95> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 79.
+(Font)              <8> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 79.
+(Font)              <6> on input line 58.
 
-Overfull \hbox (13.69934pt too wide) in paragraph at lines 79--91
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 58--70
 [] 
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 102--102
+Underfull \hbox (badness 5802) in paragraph at lines 81--81
 []|\T1/qpl/m/n/10.95 Administrator of Win-dows servers and clients, Ex-change, 
 SQL, and mon-i-tor-
  []
 
 
-Overfull \hbox (13.69934pt too wide) in paragraph at lines 93--109
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 72--88
 [] 
  []
 
 [1
 
 {/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (13.69934pt too wide) in paragraph at lines 111--116
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 90--95
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 
  []
 
@@ -640,20 +640,20 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2] (/Users/rncole/Resume/.texpadtmp/rncole.aux) ) 
 Here is how much of TeX's memory you used:
- 3566 strings out of 495063
- 46605 string characters out of 3181831
- 200050 words of memory out of 3000000
- 6709 multiletter control sequences out of 15000+200000
+ 3560 strings out of 495063
+ 46531 string characters out of 3181831
+ 199901 words of memory out of 3000000
+ 6703 multiletter control sequences out of 15000+200000
  30981 words of font info for 33 fonts, out of 3000000 for 9000
  14 hyphenation exceptions out of 8191
- 37i,11n,43p,753b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 37i,11n,43p,737b,204s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/opt/local/share/texmf-texli
 ve-dist/fonts/enc/dvips/tex-gyre/q-ec-sc.enc}{/opt/local/share/texmf-texlive-di
 st/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/opt/local/share/texmf-texlive-dist/font
 s/enc/dvips/tex-gyre/q-ec.enc}</opt/local/share/texmf-texlive-dist/fonts/type1/
 public/tex-gyre/qplb.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publi
 c/tex-gyre/qplr.pfb>
-Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71515 by
+Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71541 by
 tes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
