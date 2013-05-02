@@ -1,0 +1,131 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+L>p0.11
+Rp0.83
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robert Neil Cole
+
+
+
+
+
+empty
+
+
+
+Robert Neil Cole
+
+613 W. Broadway Street  
+  Lenoir City, TN 37771-2702
+
+
+.35em(865) 560-6051  
+  rncole@gmail.com
+
+
+-0.4em
+
+Objective
+I am a senior civil design engineer with a Senior Reactor Operator Management Certification, more than five years experience in engineering design and corrective action program management, and more than ten years of information technology experience. I am seeking to utilize my unique skillset and plant understanding in a supervisory or management role.  Specific areas of interest include plant design, operations, and nuclear construction with opportunities to take on unique or challenging roles.
+
+Professional Experience
+L!R
+2012--pres.&Senior Civil Design Engineer at 1212Tennessee Valley Authority
+
+&Ensured engineering schedule adherence as a member of the Engineering Rapid Response Team at the Watts Bar Nuclear Plant by providing engineering expertise to Operations and other plant organizations.  Primary responsibilities included production of design change requests, temporary alterations, and engineering input and oversight.  Secondary responsibilities included continued ownership of Cranes and Rigging (including NUREG-0612, Control of Heavy Loads), representing Watts Bar and Engineering at Nuclear Regulatory Commission meetings related to flood mode at their headquarters in Washington, DC, and support of IBM Cognos reports.0.5em
+
+I was selected for a Pressurized Water Reactor Senior Reactor Operator Certification in October 2012 conducted at the TVA Sequoyah Nuclear Plant.  
+
+
+
+
+
+2010--2012&Engineering Corrective Action Program Manager at 1212Tennessee Valley Authority
+
+&Manager of the Corrective Action Program (CAP) and Performance Improvement functions for the Watts Bar Engineering organization.  Interfaced with other plant organizations to coordinate corrective action program functions including the corrective action program, trending reviews, benchmarking, and self assessments. Acted as the engineering representative for the CAP problem screening committee by providing technical insight and guarding the design basis of the plant, and chaired the Engineering Departmental Corrective Action Review Board to ensure quality CAP products.0.5em
+
+Developed reporting tools for use within engineering as well as the site for management of CAP health and integration between the CAP and work management software by providing interfacing managers with key information to ensure that they could meet their goals and deadlines using IBM Cognos reporting authoring tools.0.5em
+
+Guided the Engineering program at Watts Bar toward excellence in CAP.  This was evidenced by engineering CAP program health improving from consistently poor performance at Yellow and Red to the best sustainable performance in the previous decade at White to Green with continuous improvement.
+
+
+
+Professional Experience (cont'd)
+L!R
+2008--2010&Civil Design Engineer at 1212Tennessee Valley Authority
+
+&Provided plant support regarding civil issues including Design Changes, Piping Stress Analysis meeting ASME code requirements for Class 2 and 3 piping systems, structural analysis  design, licensing document change requests, and owned the NUREG-0612 Control of Heavy Loads and temporary equipment programs at Watts Bar.0.5em 
+
+Provided engineering review/expertise and support of crane and rigging issues.  Ensured site compliance with the NUREG-0612 Control of Heavy Loads program including review and approval of deviations within Critical Lift Zones and design of special lifting devices.0.5em
+
+Mentored new engineers in the engineering graduate progression program to successfully fulfill requirements and obtain required qualifications. Assisted driving resolution of progression program discrepancies in order to ensure engineers could satisfactorily complete the program.
+
+
+2005--2007&Systems Administrator at 1212Pennant Foods Corporation
+
+&Administrator of Windows servers and clients, Exchange, SQL, and monitoring/virtualization solutions on Linux. Responsibilities also included maintaining and supporting various means of connectivity (DSL, dialup, VPN) between store locations and the internet/corporate intranet and remote banking locations via VPN.0.5em
+
+Provided desktop support for approximately 50 users at the corporate locations, including software troubleshooting, recommendations, and upgrades. Software support included Microsoft Office, Great Plains accounting, and custom FoxPro solutions for food cost evaluation.
+
+
+2004--2005&Consultant at 1212Young and Mead Consulting
+
+&Provided support and software development (FoxPro) for various firms in food service, liquor sales, and railway production. Primary roles included supporting network and server (Windows) issues including Exchange configuration, backup, and maintenance tasks. Secondary roles included FoxPro development, point of sale interface design, generating client network and system documentation, mail server configuration and administration (Postfix/sendmail), and desktop support of clients on an as-needed basis.
+
+
+
+Education, Licenses and Certifications
+L!R
+May 2013&Senior Reactor Operator Certification (ANSI 3.1, Expected), TVA-SQN/Hyperspring
+
+
+Dec. 2007&Engineer-In-Training Lic. 26514, Tennessee Department of Commerce and Insurance
+
+
+2002--2007&B.Sc. in Civil Engineering, The University of Tennessee at Knoxville
+
+
+
+1em
+
+-0.4em
+Skills and Associations
+
+*
+	[Engineering Skills:]
+	AutoCAD, MathCAD, Microstation, Structural Analysis, Piping Analysis, Corrective Action Program, Nuclear Power, Apparent Cause Analysis, Design Engineering, Plant Operations, Program Management, SRO Cert (ANSI/ANS 3.1), Cranes and Rigging, NUREG-0612
+	[Technical Skills:]
+	Cognos Report Studio, Microsoft Office, Network Administration, Microsoft Windows, Mac OS X, SQL Querying, , Systems Administration, Desktop Support
+
+	[Associations:]
+	ASCE, ASME, ANS, North American-Young Generation in Nuclear (NA-YGN)
+
+
+

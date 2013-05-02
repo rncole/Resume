@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  13 APR 2013 15:41
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/MacPorts 2012_7) (format=pdflatex 2013.4.12)  1 MAY 2013 22:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -601,30 +601,30 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 58.
 
-Overfull \hbox (13.69934pt too wide) in paragraph at lines 58--71
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 58--74
 [] 
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 82--82
+Underfull \hbox (badness 5802) in paragraph at lines 85--85
 []|\T1/qpl/m/n/10.95 Administrator of Win-dows servers and clients, Ex-change, 
 SQL, and mon-i-tor-
  []
 
 
-Overfull \hbox (13.69934pt too wide) in paragraph at lines 73--89
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 76--92
 [] 
  []
 
 [1
 
 {/opt/local/var/db/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (13.69934pt too wide) in paragraph at lines 91--98
+Overfull \hbox (13.69934pt too wide) in paragraph at lines 94--101
 [] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 
  []
 
@@ -649,7 +649,7 @@ st/fonts/enc/dvips/tex-gyre/q-ts1.enc}{/opt/local/share/texmf-texlive-dist/font
 s/enc/dvips/tex-gyre/q-ec.enc}</opt/local/share/texmf-texlive-dist/fonts/type1/
 public/tex-gyre/qplb.pfb></opt/local/share/texmf-texlive-dist/fonts/type1/publi
 c/tex-gyre/qplr.pfb>
-Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71493 by
+Output written on /Users/rncole/Resume/.texpadtmp/rncole.pdf (2 pages, 71473 by
 tes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
