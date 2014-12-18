@@ -1,0 +1,75 @@
+Robert Neil Cole
+911 Stradley Lane
+Chapin, SC 29036-7130 
+(865) 560-6051
+rncole@gmail.com
+
+Objective
+I am an EIT pursuing PE licensure with a Senior Reactor Operator Certification, seven years experience in design, programs, systems, and corrective action program management at operating and field engineering at construction nuclear power facilities. Additionally I have over ten years of information technology experience. I am seeking to utilize my unique blend of skills and plant understanding in a leadership or management role within engineering or operations.
+
+Education, Licenses and Certifications
+May 2013
+Senior Reactor Operator Certification (ANSI 3.1), TVA-SQN/Hyperspring 
+Dec. 2007
+Engineer-In-Training Lic. 26514, Tennessee Department of Commerce and Insurance 
+Dec. 2007
+B.Sc. in Civil Engineering, The University of Tennessee at Knoxville
+
+
+Professional Experience
+2013–pres.
+Civil Field Engineer at Chicago Bridge & Iron
+Scoped and developed work packages for and provided civil engineering oversight of the construction of Balance of Plant (BOP) - Standard Plant structures and features for V. C. Summer Units 2 and 3. Structures within scope include Annex Building, Transformer Pad, Radwaste and Diesel Generator buildings. Additional responsibilities included coordination of design changes between site and corporate engineering as well as integrating lessons learned from the Vogtle 3 and 4 project. Developed and maintained an internal Sharepoint site for coordination and communication of design/construction issues and lessons learned. Performed duties as interim BOP supervisor and Nuclear Island lead engineer.
+
+
+2012-2013
+Senior Civil Design Engineer at Tennessee Valley Authority
+Ensured engineering schedule adherence as a member of the Engineering Rapid Response Team at the Watts Bar Nuclear Plant by providing engineering expertise to Operations and other plant organizations. Primary responsibilities included production of design change requests, temporary alterations, and engineering input and oversight. Secondary responsibilities included continued ownership of Cranes and Rigging (including NUREG-0612, Control of Heavy Loads), representing Watts Bar and Engineering at Nuclear Regulatory Commission meetings related to flood mode, and support of IBM Cognos reports. Completed a Pressurized Water Reactor Senior Reactor Operator Certification in May 2013, conducted at the TVA Sequoyah Nuclear Plant.
+
+In an interim role, developed a new site external flood protection program including procedures, inspection requirements, and acceptance criteria to ensure that the site remains in compliance with regulatory requirements, the plant design basis, and ensuring compliance with post-Fukushima regulatory orders.
+
+
+2010–2012
+Engineering Corrective Action Program Manager at Tennessee Valley Authority
+
+2008-2010Manager of the Corrective Action Program (CAP) and Performance Improvement functions for the Watts Bar Engineering organization. Interfaced with other plant organizations to coordinate corrective action program functions including the corrective action program, trending reviews, benchmarking, and self assessments. Acted as the engineering representative for the CAP problem screening committee by providing technical insight and guarding the design basis of the plant, and chaired the Engineering Departmental Corrective Action Review Board to ensure quality CAP products.
+Developed automated reporting tools for use within Watts Bar engineering as well as the Nuclear Power Group Fleet for management of CAP health and integration between the CAP and work management software by providing interfacing managers with key information to ensure that they could meet their goals and deadlines using IBM Cognos reporting authoring tools.
+
+Guided the Engineering department CAP health at Watts Bar to excellence while managing a steady increase in Problem Evaluation reports. This was evidenced by engineering CAP program health improving from consistently poor performance at Yellow and Red over the previous decade to the best sustainable performance at White to Green with continuous improvement by reducing the backlog of Problem Evaluation Reports and Actions, increasing engineer engagement, and improving causal analysis quality.
+
+Civil Design Engineer at Tennessee Valley Authority
+Provided plant support regarding civil issues including Design Changes, Piping Stress Analysis meeting ASME code requirements for Class 2 and 3 piping systems, structural analysis & design, licensing document change requests, and owned the NUREG-0612 Control of Heavy Loads and temporary equipment programs at Watts Bar.
+Provided engineering review/expertise and support of crane and rigging issues. Ensured site compliance with the NUREG-0612 Control of Heavy Loads program including review and approval of deviations within Critical Lift Zones and design of special lifting devices.
+Mentored new engineers in the engineering graduate progression program to successfully fulfill requirements and obtain required qualifications. Assisted driving resolution of progression program discrepancies in order to ensure engineers could satisfactorily complete the program.
+
+2005-2007
+Systems Administrator at Pennant Foods Corporation
+128 Richesin Rd	
+
+2004-2005
+Consultant at Young and Mead Consulting
+Provided support and software development (FoxPro) for various firms in food service, liquor sales, and railway production. Primary roles included supporting network and server (Windows) issues including Exchange configuration, backup, and maintenance tasks. Secondary roles included FoxPro development, point of sale interface design, generating client network and system documentation, mail server configuration and administration (Postfix/sendmail), and desktop support of clients on an as-needed basis.
+
+
+Skills and Associations Technical Training:
+May 2014 Introduction to AP1000, Westinghouse
+Jun. 2012 First Line Leadership, INPO
+Oct. 2010 Cognos Report Author, IBM
+Jun. 2010 Seismic Qualification by Analysis, TVA
+Feb. 2010 Boiler and Pressure Vessel Class 1, 2, and 3 Analysis, ASME 
+Jun. 2009 Piping Analysis Qualification, TVA
+Mar. 2009 Code Requirements for Structural Concrete 318-08, ACI
+Feb. 2009 Boiler and Pressure Vessel Sec. III Div. 1, ASME
+Aug. 2008 Plant Systems, Watts Bar Nuclear Plant
+Jul. 2008 Steel Manual 14th Edition, AISC
+Apr. 2008 Structural Condition of Existing Structures, ASCE
+
+Engineering Skills: 
+AutoCAD, MathCAD, Microstation, ProjectWise, Structural Analysis, Piping Analysis, Seismic Qualification, Probable Maximum Flood and Precipitation, Corrective Action Program, Nuclear Power, Apparent Cause Analysis, Design Engineering, Plant Operations, Program Management, SRO Cert (ANSI/ANS 3.1), Cranes and Rigging, NUREG-0612
+
+Technical Skills: 
+Cognos Report Studio, Microsoft Office, Network Administration, Microsoft Windows, Mac OS X, SQL Querying, LATEX, Systems Administration, Desktop Support, Sharepoint
+
+Associations: 
+ASCE, ASME, ANS, North American-Young Generation in Nuclear (NA-YGN)
+
